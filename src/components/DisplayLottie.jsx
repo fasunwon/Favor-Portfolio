@@ -1,6 +1,5 @@
 import React, { Suspense } from "react";
 import Lottie from "react-lottie";
-import Loading from "./Loading";
 const DisplayLottie = ({ animationData }) => {
   const defaultOptions = {
     loop: true,

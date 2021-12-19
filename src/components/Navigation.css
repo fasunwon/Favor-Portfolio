@@ -2,9 +2,6 @@
   font-family: Augestina;
   src: url(../assets/fonts/Agustina.otf);
 }
-body {
-  /* background: black !important; */
-}
 #nav-title {
   font-family: Augestina;
   text-transform: capitalize;
@@ -13,7 +10,4 @@ body {
   font-family: Augestina;
   text-transform: capitalize;
   font-size: 24px;
-}
-.pos:hover {
-  color: red;
 }
