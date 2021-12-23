@@ -31,10 +31,10 @@ const ExperienceCard = ({ data }) => {
           <img
             ref={imgRef}
             alt="logo"
-            className="bg-white rounded-circle mb-3 img-center img-fluid shadow-lg"
+            className="bg-white rounded-circle p-3 mb-3 img-center img-fluid shadow-lg"
             src={data.companyLogo}
             onLoad={() => getColorArray()}
-            style={{ width: "150px" }}
+            style={{ width: "130px" }}
           />
           <CardTitle tag="h5">{data.role}</CardTitle>
           <CardSubtitle>{data.date}</CardSubtitle>
