@@ -157,6 +157,12 @@ export const projectInfo = [
     github: "https://github.com/fasunwon/GoogleClone",
     link: "https://goooogle-search-clone.netlify.app",
   },
+  {
+    name: "Video Call App",
+    desc: "This is a Video Calling App that was created to imitate a Zoom Call. Tools used includes: nodejs/express, React, Material UI, and Socket.io",
+    github: "https://github.com/fasunwon/VideoApp",
+    link: "https://sample-video-call-app.netlify.app",
+  },
 ];
 
 export const feedback = [
